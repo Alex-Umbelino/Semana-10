@@ -1,0 +1,2 @@
+usando piplha guardo 2 numeros
+usando o botao resultado eu avalio a string e descubro a operacao
